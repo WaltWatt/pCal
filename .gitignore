@@ -4,6 +4,7 @@ project.properties
 .settings
 bin/
 gen/
+ref/
 .idea/
 *.iml
 out
